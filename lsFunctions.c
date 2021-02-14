@@ -1,3 +1,7 @@
+//Annie Yao
+//Last modified: February 14th, 2021
+//Description: Function implementations to assist myls function
+
 #include <dirent.h>
 #include <stdbool.h>
 #include <string.h>

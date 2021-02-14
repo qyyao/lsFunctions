@@ -1,3 +1,7 @@
+//Annie Yao
+//Last modified: February 14th, 2021
+//Description: Functions of myls function
+
 #ifndef _LS_FUNCTIONS_H_
 #define _LS_FUNCTIONS_H_
 
