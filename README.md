@@ -6,20 +6,20 @@ ls: lists all directors and files in the current directory
 
 ### Optional Paramaters:
 
-i (inode format):
+* -i (inode format):
 Lists the inode of each file
 
--l (Long list format): 
+* -l (Long list format): 
 Lists additional information of each file/directory, including:
-  -file/directory permissions
-  -number of links
-  -file/directory owner
-  -file/directory owner group
-  -file/directory size
-  -last modified date
-  -file/directory name
+  * file/directory permissions
+  * number of links
+  * file/directory owner
+  * file/directory owner group
+  * file/directory size
+  * last modified date
+  * file/directory name
   
--R (recursive format):
+* -R (recursive format):
 Recursively lists every directory tree
 
 # HOW TO USE:
